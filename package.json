@@ -1,0 +1,12 @@
+{
+  "name": "cloudant_boilerplate_nodejs",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "bl": "^0.9.4",
+    "express": "^4.11.2"
+  }
+}
