@@ -1,6 +1,5 @@
 applications:
-- services:
-  - casualfap-cloudantNoSQLDB
+- name: casualfap
   disk_quota: 1024M
   host: casualfap
   name: casualfap
