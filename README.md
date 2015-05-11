@@ -1,2 +1,2 @@
-# casualfap
-casualfap.com website
+# casualthing
+casualthing.com website
